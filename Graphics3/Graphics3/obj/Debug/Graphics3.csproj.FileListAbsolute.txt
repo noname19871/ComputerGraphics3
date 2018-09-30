@@ -1,0 +1,11 @@
+F:\Desktop\Graphics3\Graphics3\bin\Debug\Graphics3.exe.config
+F:\Desktop\Graphics3\Graphics3\bin\Debug\Graphics3.exe
+F:\Desktop\Graphics3\Graphics3\bin\Debug\Graphics3.pdb
+F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.csprojAssemblyReference.cache
+F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.Form1.resources
+F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.Task2.resources
+F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.Properties.Resources.resources
+F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.csproj.GenerateResource.cache
+F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.csproj.CoreCompileInputs.cache
+F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.exe
+F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.pdb
