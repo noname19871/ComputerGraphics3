@@ -52,6 +52,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Task1A.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Task1A.Designer.cs">
+      <DependentUpon>Task1A.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Task1B.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Task1B.Designer.cs">
+      <DependentUpon>Task1B.cs</DependentUpon>
+    </Compile>
     <Compile Include="Task2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +74,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Task1A.resx">
+      <DependentUpon>Task1A.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Task1B.resx">
+      <DependentUpon>Task1B.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Task2.resx">
       <DependentUpon>Task2.cs</DependentUpon>

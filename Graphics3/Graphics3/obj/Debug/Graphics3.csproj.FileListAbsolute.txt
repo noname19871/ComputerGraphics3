@@ -9,3 +9,5 @@ F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.csproj.GenerateResource.cache
 F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.csproj.CoreCompileInputs.cache
 F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.exe
 F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.pdb
+F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.Task1A.resources
+F:\Desktop\Graphics3\Graphics3\obj\Debug\Graphics3.Task1B.resources

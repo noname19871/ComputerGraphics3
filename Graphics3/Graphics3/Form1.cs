@@ -22,5 +22,17 @@ namespace Graphics3
             Task2 t = new Task2();
             t.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Task1A t = new Task1A();
+            t.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Task1B t = new Task1B();
+            t.Show();
+        }
     }
 }
